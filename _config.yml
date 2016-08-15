@@ -1,41 +1,41 @@
-title: 'Mistakes and Eureka moments of an iOS developer '
-purpose: []
+typography_spectrum: 0.4087003
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.150913
+title: 'Mistakes and Eureka moments of an iOS developer '
+purpose: []
 color:
   saturation: 0.5
   brandStrength: 0.5
-  lightness: 1
+  rhythmicContrast: 0
   brandColors:
     - '#F4F4F4'
     - '#1D1C24'
     - '#E0C3A1'
     - '#804831'
     - '#FD7C90'
-  rhythmicContrast: 0
+  lightness: 1
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: MyBad
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.4087003
-layout_spectrum: 0.150913
