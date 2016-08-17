@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Mistakes and Eureka moments of an iOS developer '
+title: הטיול הגדול הראשון שלנו
 cta:
   domain: null
   bucket: null
