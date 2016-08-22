@@ -1,41 +1,41 @@
-name: The Hajbis in Vietnam
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.32706
+title: הטיול הגדול הראשון שלנו
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: הטיול הגדול הראשון שלנו
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 1
+  brandStrength: 0
+  lightness: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#EAD1B2'
+    - '#C29F8B'
+    - '#764E4C'
+    - '#891D2F'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: The Hajbis in Vietnam
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#0f171c'
-    - '#58718d'
-    - '#e8e9ed'
-    - '#b1b8bc'
-    - '#abb122'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.32706
+layout_spectrum: 1
